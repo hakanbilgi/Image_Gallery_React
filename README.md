@@ -36,7 +36,14 @@ SOLUTION
 ![Project snapshot](./imageGallery.gif)
 
 To have a better understanding, you can check this sample [app]( https://hakanbilgi.github.io/Image_Gallery_React/)
+Runs the app in the development mode.
 
+Open http://localhost:3000 to view it in your browser.
+
+The page will reload when you make changes.
+You may also see any lint errors in the console.
+
+yarn test
 ## Objective
 
 Build an Image Gallery App using ReactJS.
@@ -66,9 +73,3 @@ Build an Image Gallery App using ReactJS.
 - Step 3: Push your application into your own public repo on Github
 
 - Step 4: Add project gif to your project and README.md file.
-
-## Notes
-
-- You can add additional functionalities to your app.
-
-**<p align="center">&#9786; Happy Coding &#9997;</p>**
