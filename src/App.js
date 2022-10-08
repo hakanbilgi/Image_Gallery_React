@@ -1,8 +1,10 @@
+import Homepage from "./pages/Homepage";
 
 function App() {
   return (
     <div className="App">
-      <h1>MERHABA</h1>
+     <Homepage/>
+
     </div>
   );
 }
