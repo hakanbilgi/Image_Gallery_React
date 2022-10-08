@@ -35,7 +35,7 @@ SOLUTION
 
 ![Project snapshot](./imageGallery.gif)
 
-To have a better understanding, you can check this sample [app](https://images-app-pi.vercel.app/)
+To have a better understanding, you can check this sample [app]( https://hakanbilgi.github.io/Image_Gallery_React/)
 
 ## Objective
 
