@@ -1,5 +1,76 @@
 const data = [
   {
+    photographer: "Nina  Hill",
+    src: {
+      large:
+        "https://images.pexels.com/photos/12168556/pexels-photo-12168556.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    },
+  },
+  {
+    photographer: "Jonathan Borba",
+    src: {
+      large:
+        "https://images.pexels.com/photos/12173281/pexels-photo-12173281.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    },
+  },
+  {
+    photographer: "Enrique Hoyos",
+    src: {
+      large:
+        "https://images.pexels.com/photos/12172737/pexels-photo-12172737.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    },
+  },
+  {
+    photographer: "Omar Zetina",
+    src: {
+      large:
+        "https://images.pexels.com/photos/12046302/pexels-photo-12046302.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    },
+  },
+  {
+    photographer: "Withsonya_",
+    src: {
+      large:
+        "https://images.pexels.com/photos/12123082/pexels-photo-12123082.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    },
+  },
+  {
+    photographer: "Leah Kelley",
+    src: {
+      large:
+        "https://images.pexels.com/photos/12128381/pexels-photo-12128381.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    },
+  },
+  {
+    photographer: "Leah Kelley",
+    src: {
+      large:
+        "https://images.pexels.com/photos/12128383/pexels-photo-12128383.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    },
+  },
+  {
+    photographer: "Usman ARJ",
+    src: {
+      large:
+        "https://images.pexels.com/photos/12125024/pexels-photo-12125024.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    },
+  },
+  {
+    photographer: "Iury Bessa",
+    src: {
+      large:
+        "https://images.pexels.com/photos/12118868/pexels-photo-12118868.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    },
+  },
+  {
+    photographer: "op23",
+    src: {
+      large:
+        "https://images.pexels.com/photos/12118291/pexels-photo-12118291.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    },
+  },
+
+  {
     photographer: "Lucía Montenegro",
     src: {
       large:
@@ -34,27 +105,7 @@ const data = [
         "https://images.pexels.com/photos/12166061/pexels-photo-12166061.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     },
   },
-  {
-    photographer: "Nina  Hill",
-    src: {
-      large:
-        "https://images.pexels.com/photos/12168556/pexels-photo-12168556.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    },
-  },
-  {
-    photographer: "Jonathan Borba",
-    src: {
-      large:
-        "https://images.pexels.com/photos/12173281/pexels-photo-12173281.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    },
-  },
-  {
-    photographer: "Enrique Hoyos",
-    src: {
-      large:
-        "https://images.pexels.com/photos/12172737/pexels-photo-12172737.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    },
-  },
+
   {
     photographer: "Malik Skydsgaard",
     src: {
@@ -200,55 +251,6 @@ const data = [
     src: {
       large:
         "https://images.pexels.com/photos/12050692/pexels-photo-12050692.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    },
-  },
-  {
-    photographer: "Omar Zetina",
-    src: {
-      large:
-        "https://images.pexels.com/photos/12046302/pexels-photo-12046302.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    },
-  },
-  {
-    photographer: "Withsonya_",
-    src: {
-      large:
-        "https://images.pexels.com/photos/12123082/pexels-photo-12123082.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    },
-  },
-  {
-    photographer: "Leah Kelley",
-    src: {
-      large:
-        "https://images.pexels.com/photos/12128381/pexels-photo-12128381.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    },
-  },
-  {
-    photographer: "Leah Kelley",
-    src: {
-      large:
-        "https://images.pexels.com/photos/12128383/pexels-photo-12128383.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    },
-  },
-  {
-    photographer: "Usman ARJ",
-    src: {
-      large:
-        "https://images.pexels.com/photos/12125024/pexels-photo-12125024.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    },
-  },
-  {
-    photographer: "Iury Bessa",
-    src: {
-      large:
-        "https://images.pexels.com/photos/12118868/pexels-photo-12118868.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-    },
-  },
-  {
-    photographer: "op23",
-    src: {
-      large:
-        "https://images.pexels.com/photos/12118291/pexels-photo-12118291.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
     },
   },
 ];
