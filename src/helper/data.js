@@ -1,5 +1,6 @@
 const data = [
   {
+
     photographer: "Nina  Hill",
     src: {
       large:
@@ -7,6 +8,7 @@ const data = [
     },
   },
   {
+
     photographer: "Jonathan Borba",
     src: {
       large:
@@ -14,6 +16,7 @@ const data = [
     },
   },
   {
+    
     photographer: "Enrique Hoyos",
     src: {
       large:
